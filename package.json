@@ -1,0 +1,25 @@
+{
+  "name": "my-team-page",
+  "version": "1.0.0",
+  "description": "![screenshot](screenshot.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightme-fan/my-team-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightme-fan/my-team-page/issues"
+  },
+  "homepage": "https://github.com/lightme-fan/my-team-page#readme",
+  "dependencies": {
+    "h": "^1.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "sass": "^1.27.0"
+  }
+}
