@@ -2,7 +2,7 @@
     font-family: 'PT Serif';
     src: url('/fonts/PTSerif-Regular.woff2') format('woff2'),
         url('/fonts/PTSerif-Regular.woff') format('woff');
-    font-weight: 400;
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
@@ -11,7 +11,7 @@
     font-family: 'Poppins';
     src: url('/fonts/Poppins-Regular.woff2') format('woff2'),
         url('/fonts/Poppins-Regular.woff') format('woff');
-    font-weight: 400;
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
@@ -67,9 +67,6 @@ figure {
     font-size: 12px;
     text-transform: uppercase;
     position: absolute;
-    /* top: 25px;
-    text-transform: uppercase;
-    transform: rotate(90deg); */
     left: 100%;
     min-inline-size: max-content;
     writing-mode: vertical-rl;

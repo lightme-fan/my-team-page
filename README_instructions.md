@@ -1,64 +1,47 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
-
-<div align="center">
-   Solution for a challenge "My team page".
-</div>
+<h1 align="center">Team Page</h1>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    Click these links
+    <a href="https://youthful-hawking-4ee062.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/lightme-fan/my-team-page">
       Solution
     </a>
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
--   [Overview](#overview)
-    -   [Built With](#built-with)
--   [Features](#features)
--   [Contact](#contact)
--   [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
+Screenshot of this project
+![screenShot](screenShot.png)
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+- You can find the demo of project by visiting this link https://youthful-hawking-4ee062.netlify.app/.
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
--   Where can I see your demo?
--   What was your experience?
--   What have you learned/improved?
--   Your wisdom? :)
+- I have learnt a lot from this project. I came up with two new css properties which I have never used, they are **text-orientation**, **min-inline-size** and **writing-mode**.
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+This projet is built by:
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://github.com/lightme-fan/my-team-page)
 
--   [React](https://reactjs.org/)
--   [Vue.js](https://vuejs.org/)
--   [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+In this project, you will these features:
+- index.html
+- css/index.css
+- fonts/
+- photos
+- screenshot of this project
+- readme.md
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-## Contact
-
--   Website [your-website.com](https://{your-web-site-link})
--   GitHub [@your-username](https://{github.com/your-usermame})
--   Twitter [@your-twitter](https://{twitter.com/your-username})
+Website: [Team Page](https://youthful-hawking-4ee062.netlify.app/)
+GitHub: [lightme-fan](https://{github.com/your-usermame})
