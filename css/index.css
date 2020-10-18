@@ -34,7 +34,7 @@ article {
 
 .heading, 
 .team-heading,
-.name {
+.name-person {
     font-family: 'Poppins';
     font-size: 18px;
     line-height: 27px;
@@ -44,7 +44,7 @@ article {
     text-transform: uppercase;
 }
 
-.name {
+.name-person {
     font-weight: 600;
 }
 
@@ -63,35 +63,17 @@ figure {
     transform: scale(0.95);
 }
 
-.job {
+.personal-job {
     font-size: 12px;
     text-transform: uppercase;
     position: absolute;
-    top: 25px;
-    left: 86%;
+    /* top: 25px;
     text-transform: uppercase;
-    transform: rotate(90deg);
+    transform: rotate(90deg); */
+    left: 100%;
     min-inline-size: max-content;
-}
-
-.list-photo:nth-of-type(1) > figure > .job {
-    top: 42px;
-    left: 75%;
-}
-
-.list-photo:nth-of-type(2) > figure > .job {
-    top: 33px;
-    left: 80%;
-}
-
-.list-photo:nth-of-type(3) > figure > .job {
-    top: 24px;
-    left: 86%;
-}
-
-.list-photo:nth-of-type(4) > figure > .job {
-    top: 30px;
-    left: 82%;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
 }
 
 .photos {
@@ -163,27 +145,4 @@ figure {
     .list-photo:nth-of-type(6) {
         margin-top: 0;
     }
-}
-
-@media(min-width: 700px) {
-    .job {
-        left: 91%;
-    }
-
-    .list-photo:nth-of-type(1) > figure > .job {
-        left: 85%;
-    }
-    
-    .list-photo:nth-of-type(2) > figure > .job {
-        left: 88%;
-    }
-    
-    .list-photo:nth-of-type(3) > figure > .job {
-        left: 92%;
-    }
-    
-    .list-photo:nth-of-type(4) > figure > .job {
-        left: 90%;
-    }
-    
 }
